@@ -1,4 +1,4 @@
-# ========================= HOW TO RUN THIS APP =========================
+# ========== HOW TO RUN THIS APP ==============
 #
 # 1. Install required libraries:
 #    pip install streamlit pandas plotly
@@ -23,4 +23,4 @@
 # 7. Categories persist in:
 #    categories.json
 #
-# ======================================================================
+# ==============================
