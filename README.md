@@ -23,4 +23,15 @@
 # 7. Categories persist in:
 #    categories.json
 #
+# 8. App Features
+#    Upload multiple bank statement CSV files
+#    Automatic transaction categorization using keyword matching
+#    Manual category editing with learning from user changes
+#    Multi-currency support for all transactions
+#    Separate views for Expenses (Debits) and Payments (Credits)
+#    Category-wise spending breakdown
+#    Currency-wise spending breakdown
+#    Interactive charts for quick financial insights
+#    Payment summaries grouped by currency for clarity
+#
 # ==============================
